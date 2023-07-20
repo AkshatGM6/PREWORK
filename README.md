@@ -16,6 +16,10 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+![Video Walkthrough](https://imgur.com/a/AWrSbxm.gif)
+
+
 <img src='![](https://imgur.com/a/AWrSbxm.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
