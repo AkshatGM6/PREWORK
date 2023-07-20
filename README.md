@@ -20,8 +20,6 @@ Here's a walkthrough of implemented user stories:
 ![Imgur](https://i.imgur.com/77R7cpE.gif)
 
 
-<img src='![](https://imgur.com/a/AWrSbxm.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with inbuilt screen recorder for macBook and online video to gif convertor
 <!-- Recommended tools:
