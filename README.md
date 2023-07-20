@@ -42,7 +42,8 @@ Apps I like are -
      1. Can schedule my uber days before
      2. Can select which level of vehicle to get uber as (sedan, etc)
 
-App that I would like to build is a workout app with following features : 
+#### App that I would like to build is a workout app with following features : 
+
     1. It helps me create a workout plan which can then be repeated. 
     2. It everyday reminds me of what would be my workout today and maintains a checklist for it. 
     3. It also logs the calories i burned using Apple Healthkit 
